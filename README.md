@@ -18,3 +18,14 @@ This project demonstrates how to deliver an HLS (.m3u8) video stream securely us
 
 ## 🌐 Live CloudFront Link
 https://dcmqi1anm7sax.cloudfront.net/index.html
+
+## 📷 Screenshots
+
+### 🔒 S3 Bucket Policy
+![S3 Bucket Policy](screenshots/P3_S3 Bucket.png)
+
+### 🌍 CloudFront Distribution Settings
+![CloudFront Settings](screenshots/P3_Cloudfront.png)
+
+### OAC settings
+![OAC](screenshots/P3_OAC.png)
