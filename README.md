@@ -21,10 +21,10 @@ This project demonstrates how to deliver an HLS (.m3u8) video stream securely us
 ## 📷 Screenshots
 
 ### 🔒 S3 Bucket Policy
-![S3 Bucket Policy](screenshots/s3-bucket-policy.png)
+![S3 Bucket Policy](screenshots/P3_S3 Bucket.png)
 
 ### 🌍 CloudFront Distribution Settings
-![CloudFront Settings](screenshots/cloudfront-settings.png)
+![CloudFront Settings](screenshots/P3_Cloudfront)
 
-### 🎬 OTT Video Player (index.html)
-![Video Player](screenshots/player-working.png)
+### OAC 
+![OAC](screenshots/P3_OAC)
