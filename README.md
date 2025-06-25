@@ -16,4 +16,5 @@ This project demonstrates how to deliver an HLS (.m3u8) video stream securely us
 - Handling **Access Denied** and MIME-type issues in real time
 - Real-world skills used by **OTT and Ad Tech platforms**
 
-## 🌐 Live CloudFront Link (if applicable)
+## 🌐 Live CloudFront Link
+https://dcmqi1anm7sax.cloudfront.net/index.html
